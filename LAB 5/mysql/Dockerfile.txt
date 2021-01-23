@@ -1,0 +1,3 @@
+FROM mysql:latest
+LABEL maintainer="ryszard.rogalki@pollub.edu.pl"
+EXPOSE 3306
